@@ -1,0 +1,16 @@
+name: bubblewrap
+id: ari:cloud:compass:2eefe999-d61b-469c-92ef-31fc5e9b3f13:component/ace244a1-3ae8-43fb-8c96-347d12170341/262c900c-baac-491d-adb5-88fe99db6a4b
+description: Bubblewrap is a Command Line Interface (CLI) that helps developers to create a Project for an Android application that launches an existing Progressive Web App (PWAs) using a Trusted Web Activity.
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/Boomtoknlab/bubblewrap
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
